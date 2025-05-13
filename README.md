@@ -64,8 +64,17 @@ This project aims to classify Turkish news texts from the [TTC4900 dataset](http
 ## 🏆 Key Results
 
 - **Best ML model:** TF-IDF + Logistic Regression (91% Accuracy)
-- **Best Deep Learning result:** Random Embeddings > Word2Vec Embeddings
-- **Best overall performance:** Fine-tuned Turkish BERT model
+- **Best Deep Learning result:** Random Embeddings > Word2Vec Embeddings (83% Accuracy)
+- **Best overall performance:** Fine-tuned Turkish BERT model (96% Accuracy)
+
+- Confusion Matrix:
+
+   ![](images/Resim1.png)
+  
+   ![](images/Resim2.png)
+  
+   ![](images/Resim3.png)
+
 
 ---
 
@@ -82,7 +91,7 @@ This project aims to classify Turkish news texts from the [TTC4900 dataset](http
 
 ## 📄 Project Report
 
-If you want, you can also look at the [project report](./cse431_project2_report.pdf) for more details about the methodology, implementation, results, and analysis.
+If you want, you can also look at the [project report](./project_report.pdf) for more details about the methodology, implementation, results, and analysis.
 
 ---
 
